@@ -3,17 +3,25 @@ body{
 }
 
 h1{
-
+        color: white;
+        text-align: center;
 }
 
 h2{
-
+        color: white;
+        text-align: center; 
 }
 
 h3{
-
+        color: white;
+        text-align: center;
+        background: grey;
+        border-radius: dashed;
+        
 }
 
 p{
-
+        color: black;
+        text-align: center;
+        background: white;
 }
