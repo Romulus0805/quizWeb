@@ -16,7 +16,8 @@ h3{
         color: white;
         text-align: center;
         background: grey;
-        border-radius: dashed;
+        border-style: dashed;
+        border-radius: 10px;
         
 }
 
