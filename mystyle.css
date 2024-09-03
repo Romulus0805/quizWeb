@@ -25,3 +25,15 @@ p{
         text-align: center;
         background: white;
 }
+
+.wrong{
+        color: white;
+        background: red;
+        text-align:center;
+}
+
+.right{
+        color: green;
+        background: black;
+        text-align: center;
+}
