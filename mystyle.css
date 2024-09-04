@@ -29,19 +29,3 @@ p{
         border-style: dashed;
         border-radius: 10px;
 }
-
-.wrong{
-        color: white;
-        background: red;
-        text-align:center;
-        border-style: dashed;
-        border-radius: 10px;
-}
-
-.right{
-        color: green;
-        background: black;
-        text-align: center;
-        border-style: dashed;
-        border-radius: 10px;
-}
